@@ -1,0 +1,120 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+ul li {
+
+    list-style: none;
+}
+
+a {
+
+    text-decoration: none;
+}
+
+.topbar{
+    background-color: #316DC3;
+}
+
+.head-buttons a {
+
+padding: 2px;
+
+}
+
+.nav-buttons a {
+
+padding: 5px; 
+margin-top: 15px;  
+}
+
+marquee{
+    color:grey;
+
+}
+
+.social-media-icons ul li{
+    display: inline;
+    background-color: #316dc3;
+    margin-right: 10px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 50%;
+}
+
+.phone{
+    display: flex;
+}
+
+.phone ul i{
+    color: greenyellow;
+}
+
+.para {
+text-align: justify;
+}
+
+/* .nav-buttons{
+    border-radius: 100px;
+} */
+
+.nav-buttons a{
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 30px;
+}
+
+.nav-buttons a:hover{
+    text-decoration: none;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+    border-radius: 30px;
+    background-color: #316dc3;
+}
+
+.nav-buttons a:focus{
+    text-decoration: none;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 30px;
+    background-color: #316dc3;
+}
+
+.selected:focus{
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 30px;
+    background-color: #316dc3;
+}
+
+.selected{
+    color: white;
+    border-radius: 30px;
+    background-color: #316dc3;
+}
+
+.whatwedo{
+    text-align: center;
+
+}
+
+.col-md-4{
+    
+    padding: 20px 20px;
+    
+}
+
+.separator{
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
+
+
+
+
